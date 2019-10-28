@@ -13,7 +13,7 @@ cd ML_RandForests
 jupyter notebook decision_tree_exo.ipynb
 ```
 
-The goal is to build a decision tree that will help us classify fruits depending on their characteristics :
+The goal is to build a decision tree that will help us classify fruits depending on their characteristics, using GINI coefficient and the information gain :
 ```
 Is color == Yellow?
 --> True:
