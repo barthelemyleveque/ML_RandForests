@@ -14,7 +14,7 @@ jupyter notebook decision_tree_exo.ipynb
 ```
 
 The goal is to build a decision tree that will help us classify fruits depending on their characteristics :
-
+```
 Is color == Yellow?
 --> True:
   Predict {'Lemon': 20}
@@ -32,3 +32,4 @@ Is color == Yellow?
       Predict {'Grape': 19}
     --> False:
       Predict {'Apple': 19}
+```
